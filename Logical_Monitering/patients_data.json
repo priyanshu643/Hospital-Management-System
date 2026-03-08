@@ -1,0 +1,1104 @@
+{
+    "patients": {
+        "P001": {
+            "name": "Ananya Iyer",
+            "age": 30,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 68,
+                "spo2_percent": 90,
+                "temperature_c": 39.1
+            },
+            "status": "Critical"
+        },
+        "P002": {
+            "name": "Rahul Singh",
+            "age": 71,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 95,
+                "spo2_percent": 87,
+                "temperature_c": 36.9
+            },
+            "status": "Critical"
+        },
+        "P003": {
+            "name": "Priya Desai",
+            "age": 30,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 90,
+                "spo2_percent": 89,
+                "temperature_c": 38.3
+            },
+            "status": "Critical"
+        },
+        "P004": {
+            "name": "Siddharth Reddy",
+            "age": 84,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 121,
+                "spo2_percent": 92,
+                "temperature_c": 38.5
+            },
+            "status": "Critical"
+        },
+        "P005": {
+            "name": "Ananya Nair",
+            "age": 27,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 111,
+                "spo2_percent": 92,
+                "temperature_c": 37.0
+            },
+            "status": "Warning"
+        },
+        "P006": {
+            "name": "Arjun Patel",
+            "age": 64,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 90,
+                "spo2_percent": 85,
+                "temperature_c": 38.6
+            },
+            "status": "Critical"
+        },
+        "P007": {
+            "name": "Pooja Desai",
+            "age": 48,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 90,
+                "spo2_percent": 90,
+                "temperature_c": 39.3
+            },
+            "status": "Critical"
+        },
+        "P008": {
+            "name": "Sneha Das",
+            "age": 67,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 114,
+                "spo2_percent": 94,
+                "temperature_c": 37.8
+            },
+            "status": "Warning"
+        },
+        "P009": {
+            "name": "Neha Verma",
+            "age": 59,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 64,
+                "spo2_percent": 88,
+                "temperature_c": 37.8
+            },
+            "status": "Critical"
+        },
+        "P010": {
+            "name": "Vikram Singh",
+            "age": 77,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 90,
+                "spo2_percent": 87,
+                "temperature_c": 38.1
+            },
+            "status": "Critical"
+        },
+        "P011": {
+            "name": "Rohan Reddy",
+            "age": 64,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 85,
+                "spo2_percent": 87,
+                "temperature_c": 37.2
+            },
+            "status": "Critical"
+        },
+        "P012": {
+            "name": "Meera Kumar",
+            "age": 74,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 109,
+                "spo2_percent": 86,
+                "temperature_c": 36.6
+            },
+            "status": "Critical"
+        },
+        "P013": {
+            "name": "Kavya Reddy",
+            "age": 47,
+            "condition": "Sepsis Observation",
+            "current_vitals": {
+                "heart_rate_bpm": 129,
+                "spo2_percent": 93,
+                "temperature_c": 37.2
+            },
+            "status": "Critical"
+        },
+        "P014": {
+            "name": "Sneha Gupta",
+            "age": 29,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 67,
+                "spo2_percent": 85,
+                "temperature_c": 37.6
+            },
+            "status": "Critical"
+        },
+        "P015": {
+            "name": "Vikram Sharma",
+            "age": 36,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 63,
+                "spo2_percent": 85,
+                "temperature_c": 37.3
+            },
+            "status": "Critical"
+        },
+        "P016": {
+            "name": "Pooja Reddy",
+            "age": 49,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 88,
+                "spo2_percent": 99,
+                "temperature_c": 36.2
+            },
+            "status": "Stable"
+        },
+        "P017": {
+            "name": "Karan Joshi",
+            "age": 76,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 66,
+                "spo2_percent": 100,
+                "temperature_c": 38.2
+            },
+            "status": "Warning"
+        },
+        "P018": {
+            "name": "Priya Das",
+            "age": 78,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 70,
+                "spo2_percent": 98,
+                "temperature_c": 37.1
+            },
+            "status": "Stable"
+        },
+        "P019": {
+            "name": "Karan Reddy",
+            "age": 23,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 84,
+                "spo2_percent": 96,
+                "temperature_c": 38.5
+            },
+            "status": "Warning"
+        },
+        "P020": {
+            "name": "Karan Das",
+            "age": 36,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 129,
+                "spo2_percent": 95,
+                "temperature_c": 36.1
+            },
+            "status": "Critical"
+        },
+        "P021": {
+            "name": "Aarav Kumar",
+            "age": 82,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 65,
+                "spo2_percent": 94,
+                "temperature_c": 38.6
+            },
+            "status": "Warning"
+        },
+        "P022": {
+            "name": "Aditya Patel",
+            "age": 54,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 86,
+                "spo2_percent": 99,
+                "temperature_c": 39.1
+            },
+            "status": "Critical"
+        },
+        "P023": {
+            "name": "Aarav Sharma",
+            "age": 50,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 109,
+                "spo2_percent": 87,
+                "temperature_c": 39.3
+            },
+            "status": "Critical"
+        },
+        "P024": {
+            "name": "Vikram Reddy",
+            "age": 24,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 68,
+                "spo2_percent": 85,
+                "temperature_c": 38.5
+            },
+            "status": "Critical"
+        },
+        "P025": {
+            "name": "Meera Patel",
+            "age": 42,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 74,
+                "spo2_percent": 90,
+                "temperature_c": 37.5
+            },
+            "status": "Warning"
+        },
+        "P026": {
+            "name": "Arjun Das",
+            "age": 64,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 107,
+                "spo2_percent": 91,
+                "temperature_c": 38.9
+            },
+            "status": "Warning"
+        },
+        "P027": {
+            "name": "Arjun Sharma",
+            "age": 33,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 71,
+                "spo2_percent": 91,
+                "temperature_c": 37.0
+            },
+            "status": "Warning"
+        },
+        "P028": {
+            "name": "Rahul Iyer",
+            "age": 69,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 129,
+                "spo2_percent": 87,
+                "temperature_c": 38.7
+            },
+            "status": "Critical"
+        },
+        "P029": {
+            "name": "Sneha Das",
+            "age": 46,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 106,
+                "spo2_percent": 92,
+                "temperature_c": 39.1
+            },
+            "status": "Critical"
+        },
+        "P030": {
+            "name": "Rahul Patel",
+            "age": 29,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 106,
+                "spo2_percent": 97,
+                "temperature_c": 38.7
+            },
+            "status": "Warning"
+        },
+        "P031": {
+            "name": "Pooja Kumar",
+            "age": 54,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 120,
+                "spo2_percent": 86,
+                "temperature_c": 39.2
+            },
+            "status": "Critical"
+        },
+        "P032": {
+            "name": "Ananya Desai",
+            "age": 50,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 85,
+                "spo2_percent": 91,
+                "temperature_c": 36.4
+            },
+            "status": "Warning"
+        },
+        "P033": {
+            "name": "Priya Nair",
+            "age": 57,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 92,
+                "spo2_percent": 88,
+                "temperature_c": 39.5
+            },
+            "status": "Critical"
+        },
+        "P034": {
+            "name": "Siddharth Patel",
+            "age": 59,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 119,
+                "spo2_percent": 92,
+                "temperature_c": 36.0
+            },
+            "status": "Warning"
+        },
+        "P035": {
+            "name": "Karan Das",
+            "age": 32,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 64,
+                "spo2_percent": 92,
+                "temperature_c": 37.4
+            },
+            "status": "Warning"
+        },
+        "P036": {
+            "name": "Aditya Nair",
+            "age": 42,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 119,
+                "spo2_percent": 94,
+                "temperature_c": 39.3
+            },
+            "status": "Critical"
+        },
+        "P037": {
+            "name": "Rahul Joshi",
+            "age": 72,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 65,
+                "spo2_percent": 100,
+                "temperature_c": 38.2
+            },
+            "status": "Warning"
+        },
+        "P038": {
+            "name": "Aarav Iyer",
+            "age": 72,
+            "condition": "Sepsis Observation",
+            "current_vitals": {
+                "heart_rate_bpm": 64,
+                "spo2_percent": 90,
+                "temperature_c": 38.9
+            },
+            "status": "Warning"
+        },
+        "P039": {
+            "name": "Karan Verma",
+            "age": 81,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 74,
+                "spo2_percent": 99,
+                "temperature_c": 37.3
+            },
+            "status": "Stable"
+        },
+        "P040": {
+            "name": "Aditya Das",
+            "age": 81,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 94,
+                "spo2_percent": 85,
+                "temperature_c": 36.2
+            },
+            "status": "Critical"
+        },
+        "P041": {
+            "name": "Aditya Das",
+            "age": 33,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 120,
+                "spo2_percent": 85,
+                "temperature_c": 36.3
+            },
+            "status": "Critical"
+        },
+        "P042": {
+            "name": "Karan Kumar",
+            "age": 34,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 113,
+                "spo2_percent": 86,
+                "temperature_c": 37.3
+            },
+            "status": "Critical"
+        },
+        "P043": {
+            "name": "Priya Gupta",
+            "age": 38,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 97,
+                "spo2_percent": 86,
+                "temperature_c": 38.2
+            },
+            "status": "Critical"
+        },
+        "P044": {
+            "name": "Aarav Desai",
+            "age": 58,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 98,
+                "spo2_percent": 85,
+                "temperature_c": 36.2
+            },
+            "status": "Critical"
+        },
+        "P045": {
+            "name": "Arjun Gupta",
+            "age": 33,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 96,
+                "spo2_percent": 99,
+                "temperature_c": 37.0
+            },
+            "status": "Stable"
+        },
+        "P046": {
+            "name": "Kavya Patel",
+            "age": 56,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 60,
+                "spo2_percent": 86,
+                "temperature_c": 37.0
+            },
+            "status": "Critical"
+        },
+        "P047": {
+            "name": "Meera Sharma",
+            "age": 68,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 81,
+                "spo2_percent": 86,
+                "temperature_c": 37.2
+            },
+            "status": "Critical"
+        },
+        "P048": {
+            "name": "Meera Kumar",
+            "age": 61,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 125,
+                "spo2_percent": 95,
+                "temperature_c": 36.0
+            },
+            "status": "Critical"
+        },
+        "P049": {
+            "name": "Pooja Singh",
+            "age": 29,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 60,
+                "spo2_percent": 90,
+                "temperature_c": 36.4
+            },
+            "status": "Warning"
+        },
+        "P050": {
+            "name": "Kavya Sharma",
+            "age": 77,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 128,
+                "spo2_percent": 92,
+                "temperature_c": 36.7
+            },
+            "status": "Critical"
+        },
+        "P051": {
+            "name": "Aarav Nair",
+            "age": 19,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 107,
+                "spo2_percent": 98,
+                "temperature_c": 39.4
+            },
+            "status": "Critical"
+        },
+        "P052": {
+            "name": "Priya Reddy",
+            "age": 18,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 60,
+                "spo2_percent": 95,
+                "temperature_c": 38.0
+            },
+            "status": "Stable"
+        },
+        "P053": {
+            "name": "Aarav Desai",
+            "age": 53,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 100,
+                "spo2_percent": 95,
+                "temperature_c": 38.0
+            },
+            "status": "Stable"
+        },
+        "P054": {
+            "name": "Rohan Das",
+            "age": 68,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 103,
+                "spo2_percent": 96,
+                "temperature_c": 36.6
+            },
+            "status": "Warning"
+        },
+        "P055": {
+            "name": "Karan Desai",
+            "age": 61,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 79,
+                "spo2_percent": 90,
+                "temperature_c": 37.4
+            },
+            "status": "Warning"
+        },
+        "P056": {
+            "name": "Arjun Gupta",
+            "age": 41,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 69,
+                "spo2_percent": 99,
+                "temperature_c": 38.0
+            },
+            "status": "Stable"
+        },
+        "P057": {
+            "name": "Pooja Singh",
+            "age": 58,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 122,
+                "spo2_percent": 97,
+                "temperature_c": 36.7
+            },
+            "status": "Critical"
+        },
+        "P058": {
+            "name": "Sneha Sharma",
+            "age": 72,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 93,
+                "spo2_percent": 98,
+                "temperature_c": 37.4
+            },
+            "status": "Stable"
+        },
+        "P059": {
+            "name": "Kavya Verma",
+            "age": 81,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 91,
+                "spo2_percent": 92,
+                "temperature_c": 37.6
+            },
+            "status": "Warning"
+        },
+        "P060": {
+            "name": "Rohan Nair",
+            "age": 24,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 120,
+                "spo2_percent": 86,
+                "temperature_c": 37.8
+            },
+            "status": "Critical"
+        },
+        "P061": {
+            "name": "Ananya Sharma",
+            "age": 58,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 91,
+                "spo2_percent": 87,
+                "temperature_c": 36.3
+            },
+            "status": "Critical"
+        },
+        "P062": {
+            "name": "Kavya Iyer",
+            "age": 62,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 126,
+                "spo2_percent": 89,
+                "temperature_c": 37.1
+            },
+            "status": "Critical"
+        },
+        "P063": {
+            "name": "Pooja Verma",
+            "age": 43,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 104,
+                "spo2_percent": 97,
+                "temperature_c": 38.5
+            },
+            "status": "Warning"
+        },
+        "P064": {
+            "name": "Sneha Patel",
+            "age": 33,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 71,
+                "spo2_percent": 97,
+                "temperature_c": 36.6
+            },
+            "status": "Stable"
+        },
+        "P065": {
+            "name": "Kavya Iyer",
+            "age": 62,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 110,
+                "spo2_percent": 99,
+                "temperature_c": 38.8
+            },
+            "status": "Warning"
+        },
+        "P066": {
+            "name": "Siddharth Nair",
+            "age": 29,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 67,
+                "spo2_percent": 100,
+                "temperature_c": 39.5
+            },
+            "status": "Critical"
+        },
+        "P067": {
+            "name": "Priya Patel",
+            "age": 58,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 70,
+                "spo2_percent": 96,
+                "temperature_c": 36.9
+            },
+            "status": "Stable"
+        },
+        "P068": {
+            "name": "Siddharth Reddy",
+            "age": 24,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 123,
+                "spo2_percent": 85,
+                "temperature_c": 38.3
+            },
+            "status": "Critical"
+        },
+        "P069": {
+            "name": "Arjun Singh",
+            "age": 34,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 71,
+                "spo2_percent": 99,
+                "temperature_c": 38.8
+            },
+            "status": "Warning"
+        },
+        "P070": {
+            "name": "Rohan Verma",
+            "age": 55,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 87,
+                "spo2_percent": 99,
+                "temperature_c": 37.8
+            },
+            "status": "Stable"
+        },
+        "P071": {
+            "name": "Rahul Reddy",
+            "age": 30,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 119,
+                "spo2_percent": 93,
+                "temperature_c": 37.1
+            },
+            "status": "Warning"
+        },
+        "P072": {
+            "name": "Priya Singh",
+            "age": 60,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 127,
+                "spo2_percent": 89,
+                "temperature_c": 36.4
+            },
+            "status": "Critical"
+        },
+        "P073": {
+            "name": "Aarav Nair",
+            "age": 57,
+            "condition": "Sepsis Observation",
+            "current_vitals": {
+                "heart_rate_bpm": 113,
+                "spo2_percent": 100,
+                "temperature_c": 38.1
+            },
+            "status": "Warning"
+        },
+        "P074": {
+            "name": "Rahul Patel",
+            "age": 28,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 69,
+                "spo2_percent": 91,
+                "temperature_c": 36.2
+            },
+            "status": "Warning"
+        },
+        "P075": {
+            "name": "Pooja Reddy",
+            "age": 69,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 125,
+                "spo2_percent": 85,
+                "temperature_c": 39.3
+            },
+            "status": "Critical"
+        },
+        "P076": {
+            "name": "Rahul Iyer",
+            "age": 58,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 83,
+                "spo2_percent": 96,
+                "temperature_c": 37.9
+            },
+            "status": "Stable"
+        },
+        "P077": {
+            "name": "Sneha Das",
+            "age": 43,
+            "condition": "Sepsis Observation",
+            "current_vitals": {
+                "heart_rate_bpm": 97,
+                "spo2_percent": 98,
+                "temperature_c": 36.7
+            },
+            "status": "Stable"
+        },
+        "P078": {
+            "name": "Pooja Iyer",
+            "age": 78,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 102,
+                "spo2_percent": 96,
+                "temperature_c": 36.3
+            },
+            "status": "Warning"
+        },
+        "P079": {
+            "name": "Rahul Joshi",
+            "age": 49,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 84,
+                "spo2_percent": 90,
+                "temperature_c": 38.9
+            },
+            "status": "Warning"
+        },
+        "P080": {
+            "name": "Rahul Reddy",
+            "age": 46,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 68,
+                "spo2_percent": 88,
+                "temperature_c": 39.2
+            },
+            "status": "Critical"
+        },
+        "P081": {
+            "name": "Karan Singh",
+            "age": 65,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 62,
+                "spo2_percent": 99,
+                "temperature_c": 36.7
+            },
+            "status": "Stable"
+        },
+        "P082": {
+            "name": "Karan Patel",
+            "age": 43,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 65,
+                "spo2_percent": 90,
+                "temperature_c": 36.7
+            },
+            "status": "Warning"
+        },
+        "P083": {
+            "name": "Arjun Desai",
+            "age": 30,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 111,
+                "spo2_percent": 94,
+                "temperature_c": 39.2
+            },
+            "status": "Critical"
+        },
+        "P084": {
+            "name": "Meera Iyer",
+            "age": 31,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 108,
+                "spo2_percent": 97,
+                "temperature_c": 36.6
+            },
+            "status": "Warning"
+        },
+        "P085": {
+            "name": "Meera Singh",
+            "age": 28,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 107,
+                "spo2_percent": 89,
+                "temperature_c": 39.3
+            },
+            "status": "Critical"
+        },
+        "P086": {
+            "name": "Arjun Kumar",
+            "age": 23,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 70,
+                "spo2_percent": 93,
+                "temperature_c": 36.5
+            },
+            "status": "Warning"
+        },
+        "P087": {
+            "name": "Sneha Patel",
+            "age": 51,
+            "condition": "Sepsis Observation",
+            "current_vitals": {
+                "heart_rate_bpm": 118,
+                "spo2_percent": 100,
+                "temperature_c": 39.4
+            },
+            "status": "Critical"
+        },
+        "P088": {
+            "name": "Rahul Gupta",
+            "age": 38,
+            "condition": "Hypoglycemia",
+            "current_vitals": {
+                "heart_rate_bpm": 86,
+                "spo2_percent": 93,
+                "temperature_c": 36.4
+            },
+            "status": "Warning"
+        },
+        "P089": {
+            "name": "Siddharth Iyer",
+            "age": 61,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 94,
+                "spo2_percent": 99,
+                "temperature_c": 38.3
+            },
+            "status": "Warning"
+        },
+        "P090": {
+            "name": "Karan Gupta",
+            "age": 20,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 111,
+                "spo2_percent": 93,
+                "temperature_c": 37.3
+            },
+            "status": "Warning"
+        },
+        "P091": {
+            "name": "Rahul Verma",
+            "age": 62,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 98,
+                "spo2_percent": 94,
+                "temperature_c": 36.8
+            },
+            "status": "Warning"
+        },
+        "P092": {
+            "name": "Priya Kumar",
+            "age": 32,
+            "condition": "COPD",
+            "current_vitals": {
+                "heart_rate_bpm": 94,
+                "spo2_percent": 86,
+                "temperature_c": 38.6
+            },
+            "status": "Critical"
+        },
+        "P093": {
+            "name": "Vikram Iyer",
+            "age": 51,
+            "condition": "Cardiac Arrhythmia",
+            "current_vitals": {
+                "heart_rate_bpm": 108,
+                "spo2_percent": 92,
+                "temperature_c": 36.9
+            },
+            "status": "Warning"
+        },
+        "P094": {
+            "name": "Kavya Nair",
+            "age": 62,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 77,
+                "spo2_percent": 90,
+                "temperature_c": 39.2
+            },
+            "status": "Critical"
+        },
+        "P095": {
+            "name": "Arjun Reddy",
+            "age": 36,
+            "condition": "Hypertension",
+            "current_vitals": {
+                "heart_rate_bpm": 93,
+                "spo2_percent": 89,
+                "temperature_c": 39.1
+            },
+            "status": "Critical"
+        },
+        "P096": {
+            "name": "Pooja Joshi",
+            "age": 48,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 122,
+                "spo2_percent": 94,
+                "temperature_c": 38.4
+            },
+            "status": "Critical"
+        },
+        "P097": {
+            "name": "Sneha Sharma",
+            "age": 25,
+            "condition": "Post-operative Monitoring",
+            "current_vitals": {
+                "heart_rate_bpm": 76,
+                "spo2_percent": 89,
+                "temperature_c": 38.6
+            },
+            "status": "Critical"
+        },
+        "P098": {
+            "name": "Kavya Singh",
+            "age": 48,
+            "condition": "Asthma Exacerbation",
+            "current_vitals": {
+                "heart_rate_bpm": 97,
+                "spo2_percent": 99,
+                "temperature_c": 39.1
+            },
+            "status": "Critical"
+        },
+        "P099": {
+            "name": "Aarav Iyer",
+            "age": 66,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 117,
+                "spo2_percent": 98,
+                "temperature_c": 36.8
+            },
+            "status": "Warning"
+        },
+        "P100": {
+            "name": "Rahul Reddy",
+            "age": 64,
+            "condition": "Pneumonia",
+            "current_vitals": {
+                "heart_rate_bpm": 80,
+                "spo2_percent": 100,
+                "temperature_c": 39.5
+            },
+            "status": "Critical"
+        }
+    }
+}
