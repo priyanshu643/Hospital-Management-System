@@ -1,19 +1,15 @@
-#/home/priyanshu/Documents/GitHub/Hospital-Management-System/Logical_Monitering
-#importing libraries
+# Imported the libraries
 import requests
 import time
-# opening the loop because we want the status of the patient
-while True:
-    # adding the API for making connection between the ESP32 and the server
-    url1 = "XXX" # <------- Add the ULR of the API here
-    url2 = "XXX" # <------- Add the ULR of the API here
-    # x is a verible defined for the request sent to the API server
+# Assinging the url to the API server
+url = "XXX" # <--- Add the url here
+url1 = f"{url}.json"
+url2 = "XXX" # <--- Add the url here
+
+# creating the function to check the status of the patient
+def patient_status():
     x = requests.get(url1)
-    # printing the status code of the API
-    print(f"STATUS CODE: {x.status_code}")
-    # y is a verible defined for the response received from the API server in the json format
     y = x.json()
-    #printing the response received from the API server
     print(y)
     if type(y) == dict:
         # creating a for loop to iterate through the response received from the API server, because the response is in the form {"id": {"message": "status"}}
@@ -43,12 +39,24 @@ while True:
                 # This condition is to define that the condition is danger
                 payload = {"message": "invalid input"}
                 requests.post(url2, json=payload)
+            requests.delete(f"{url}/{firebase_id}.json")
     else:
-        print("danger! API lost")
-        # This condition is to define that the condition is danger
-        payload = {"message": "API_lost"}
-        requests.post(url2, json=payload)
-    # This will delete the data from the API server so it recheck the status of the patient from the old data
-    requests.delete(url1)
-    # adding a sleep time of 1 second so it doesn't spam the server
+        pass
+    # This will delete the data from the API server so it rechecks the status of the patient from the old data
+
+    return
+#Opening a loop to check the status of the patient
+while True:
+
+    # Using try and except to check the network glitch
+    try:
+        # Calling the function to check the status of the patient
+        patient_status()
+    # catching the exception
+    except requests.exceptions.RequestException as e:
+        print(f"Network glitch! The internet dropped: {e}")
+        print("Waiting a few seconds before trying again...")
+        # sleeping for 1 second for printing the error message
+        time.sleep(1)
+    # sleeping for 1 second so that the fire base wouldn't get banned
     time.sleep(1)
